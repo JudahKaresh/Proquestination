@@ -1,0 +1,18 @@
+
+/* CSS Document */
+ 
+ 
+ 
+/* Note:  # means id and is unique, you only can have one.  So changed it to dot (.) */
+.TaskDivs{
+  
+ display: none;
+}
+#NewTask {
+  width: 70px;
+  Height: 50px;
+}
+.DoneButtons {
+  width: 10px;
+  height: 10px;
+}
